@@ -262,6 +262,8 @@ h2{
 .details{
     margin-left: 1cm;
     margin-top: 1cm;
+    display: flex;
+    gap: 1cm;
 }
 
 .free-quote{
@@ -283,8 +285,8 @@ h2{
     background-color:orange;
     border: none;
     color: white;
-    width: 5cm;
-    height: 1cm;
+    width: 5.2cm;
+    height: 1.2cm;
 }
 #testimony{
     color: orange;
@@ -459,6 +461,8 @@ font-size: 30px;
 #legal{
     color: rgb(228, 166, 52);
 }
-#moving-type{
-    
+#inputs{
+    width: 5cm;
+    height: 1cm;
+   
 }

@@ -1,0 +1,413 @@
+.Container{
+    border: 1px solid;
+    padding: 2cm;
+}
+.Contacts{
+    display: flex;
+    gap: 30cm;
+}
+.dashboard{
+    display: flex;
+    gap: 2cm;
+    margin-left: 8cm;
+}
+#home{
+    color: orange;
+}
+.movers{
+    background-image: url(IMAGES/1-1-1.webp);
+    width: 95%;
+    height:25cm;
+
+}
+
+.fa-solid{
+    color: #4975c1;
+    margin-left: 1cm;
+}
+#data{
+margin-left: 20cm;
+
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 1cm;
+}
+#smooth-moving{
+    text-align: center;
+    font-size: 30px;
+}
+#get-started{
+    background-color: orange;
+    color: white;
+    border: none;
+    width: 5cm;
+    height: 2cm;
+    border-radius: 7px;
+    margin-left: 8cm;
+    
+}
+.family{
+    margin-left: 3cm;
+    top: 10cm;
+    position: absolute;
+    left: 10cm;
+}
+
+#household{
+    width:18cm;
+    height:15cm ;
+}
+.Riaad{
+    display: flex;
+    margin-top: 3cm;
+    gap: 3cm;
+
+}
+#learn{
+    color: orange;
+}
+#since{
+    color: orange;
+}
+.Easy{
+    display: flex;
+    gap: 3cm;
+    margin-top: 3cm;
+}
+.Easy-left{
+    margin-top: 1cm;
+}
+.Logos{
+    display: flex;
+    gap: 3cm;
+    margin-top: 5cm;
+}
+#logo1{
+width:5cm ;
+height: 2cm;
+margin-top: 0.3cm;
+}
+#logo2{
+width: 5cm;
+height: 2cm;
+margin-top: 0.3cm;
+}
+#logo3{
+    width: 5cm;
+    height: 1.2cm;
+    margin-top: 0.8cm;
+}
+#logo4{
+    width: 5cm;
+    height: 3cm;
+}
+#logo5{
+    width: 5cm;
+    height: 3cm;
+}
+.our-services{
+    text-align: center;
+    margin-top: 3cm;
+}
+#services{
+    color: orange;
+}
+.phases{
+    display: flex;
+    gap: 5cm;
+    margin-top: 2cm;
+    margin-left: 3cm;
+}
+#phase1{
+width: 3cm;
+height: 3cm;
+}
+#phase2{
+    width: 3cm;
+    height: 3cm;
+    background-color: white;
+    border-radius: 60px;
+    margin-top: 1cm;
+}
+#phase3{
+    width: 3cm;
+    height: 3cm;
+}
+#phase4{
+    width: 3cm;
+    height: 3cm;
+}
+#amet{
+margin-left:0.2cm;
+}
+#store{
+    margin-left: 1cm;
+}
+#read1{
+    color: orange;
+}
+.Storage{
+    background-color: blue;
+    width: 5cm;
+    color: white;
+    padding: 2cm;
+
+}
+#read2{
+    color: white;
+    margin-left: 0.2cm;
+}
+#read3{
+    color: orange;
+}   
+#read4{
+    color: orange;
+}
+.help{
+    display: flex;
+    gap: 5cm;
+    margin-top: 5cm;
+   
+}
+h2{
+    font-size: 40px;
+}
+#click{
+    margin-left: 5cm;
+    margin-top: 1.3cm;
+ 
+}
+.fa-play{
+    color: #e0e6ec;
+    background-color: orange;
+    width: 1cm;
+    height: 1cm;
+    text-align: center;
+    padding-top: 0.8cm;
+
+}
+#why{
+    color: orange;
+}
+#book{
+    color: orange;
+}
+#helping{
+    color: #ee9828
+}
+#save{
+    color: #e2b41b
+}
+#survey{
+    color: #e2be1a
+}
+.business{
+    display: flex;
+    gap: 4cm;
+    background-color: blue;
+    width: 12cm;
+    height: 18cm;
+    margin-top: 4cm;
+}
+#choose{
+    width:10cm ;
+    height: 12cm; 
+}
+
+#questions{
+    color: white;
+    margin-left: 2cm;
+}
+.request{
+   margin-top: 6cm;
+
+}
+#free{
+    width:100% ;
+    height:20cm;
+}
+.book-us{
+    margin-top: 2cm;
+    
+}
+
+.free-quote{
+    background-color: orange;
+    width: 40%;
+    height: 10cm;
+}
+#now{
+    color: white;
+   margin-left: 2.5cm;
+  
+}
+#quote{
+    color: white;
+   margin-left: 2.5cm;
+}
+#send-button{
+    background-color:orange;
+    border: none;
+    color: white;
+    width: 5cm;
+    height: 1cm;
+}
+#testimony{
+    color: orange;
+}
+.say{
+    margin-top: 4cm;
+    text-align: center;
+}
+.impression{
+    display: flex;
+    gap: 5cm;
+}
+#rose{
+    width: 2cm;
+    height:2cm ;
+    border-radius: 50px;
+}
+#christine{
+    color: orange;
+}
+.newsletter{
+    margin-top: 4cm;
+    text-align: center;
+}
+#news{
+    color: orange;
+}
+#subscribe{
+    background-color: orange;
+    border: none;
+    color: white;
+    width: 5cm;
+    height: 1.5cm;
+   
+}
+#blog{
+    color: orange;
+}
+.articles{
+    text-align: center;
+    margin-top: 4cm;
+}
+.significance{
+    display: flex;
+    gap: 2cm;
+}
+#packing{
+    width: 12cm;
+    height: 12cm;
+}
+.choices{
+    position: absolute;
+   top: 7600px;   
+}
+
+#admin{
+    width: 12cm;
+    height: 12cm;
+}
+#comment{
+margin-left: 1cm;
+font-weight: bolder;
+font-size: 30px;
+}
+#entertainment{
+   margin-left: 1cm;
+   font-weight: bolder;
+   font-size: 30px;
+}
+#babyboomer{
+    width: 12cm;
+    height: 12cm;  
+}
+#discover{
+    background-color: black;
+    width: 4.5cm;
+    height: 1.5cm;
+    border: none;
+    color: white;
+    margin-top: 1cm;
+}
+.more{
+    display: flex;
+    gap: 6cm;
+    background-color: orange;
+    height: 6cm;
+    width: 100%;
+}
+#over{
+    color: white;
+    margin-top: 1cm;
+   
+}
+.footer ul{
+    list-style-type: none;
+}
+.footer{
+    display: flex;
+    gap: 3cm;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 10cm;
+   
+}
+.fa-twitter{
+    color: #d19410;
+    margin-left: 0.5cm;
+}
+.fa-facebook-f{
+    color:white;
+    margin-left: 0.5cm;
+}
+.fa-linkedin-in{
+    color:white; 
+    margin-left: 0.5cm;
+}
+#use{
+    color: black;
+    background-color: white;
+    width: 1cm;
+    height: 0.5cm;
+   border-radius: 10px;
+}
+.copyright{
+  background-color: black; 
+  width: 100%; 
+  height: 2cm;
+  padding-top: 1cm;
+}
+#right{
+    color: white;
+    margin-left: 15cm;
+}
+.address{
+    margin-top: 1cm;
+}
+.media{
+    margin-top: 1cm;
+}
+.email{
+    display: flex;
+    gap: 5cm;
+    margin-left: 15cm;
+}
+#impress{
+    background-color: blue;
+    color: white;
+    width: 1cm;
+    height: 1cm;
+    border-radius: 100px;
+    text-align: center;
+    padding-top: 0.3cm;
+}
+#contact-us{
+    border-radius: 80px;
+    
+}
